@@ -1,0 +1,2 @@
+net.lambaraa.ext.DaoImplV2
+net.lambaraa.metier.MetierImpl
